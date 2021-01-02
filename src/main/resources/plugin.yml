@@ -1,0 +1,8 @@
+name: ChPets
+author: DanielCh
+version: 1.5
+main: me.danielch.chpets.ChPets
+api-version: 1.16
+
+commands:
+    pets:
